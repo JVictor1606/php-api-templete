@@ -116,7 +116,7 @@ Requisicao HTTP
 
 ```bash
 # 1. Clone o repositorio
-git clone https://github.com/seu-usuario/php-api-template.git
+git clone https://github.com/JVictor160/php-api-template.git
 
 # 2. Entre na pasta
 cd php-api-template
