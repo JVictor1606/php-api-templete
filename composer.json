@@ -1,0 +1,13 @@
+{
+  "name": "estruturamvc/scr",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "require": {
+    "zircote/swagger-php": "^6.0",
+    "vlucas/phpdotenv": "^5.6",
+    "larapack/dd": "^1.1"
+  }
+}
